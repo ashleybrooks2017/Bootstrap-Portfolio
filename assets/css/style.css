@@ -1,0 +1,153 @@
+.body
+{
+  width: 100%;
+}
+
+.navbar-header
+{
+  padding-left: 20px;
+  color: #ffffff;
+}
+
+.page-header
+{
+  font-family: Georgia;
+  color: #4aaaa5;
+  padding-left: 20px; 
+}
+
+#bs-example-navbar-collapse-1
+{
+  background-color: #4aaaa5;
+  font-size: 20px;
+  padding-top: 28px;
+}
+.navbar-brand
+{
+  font-family: Georgia;
+}
+
+
+.AboutMe
+{
+  line-height: 1.5;
+  font-size: 17px;
+  color: #777;
+}
+
+#footerIndex
+{
+  line-height: 1.2;
+  font-size: 17px;
+  background-color: #777;
+  bottom: 0px;
+  text-align: center;  
+}
+.panel-heading
+{
+  font-family: Georgia;
+  font-size: 25px;
+  color: #777;
+  text-align: center;
+}
+
+#containerImgs
+{
+  position: relative;
+  z-index: 2;
+
+}
+
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+ #rowImgs
+ {
+  border-style: inset;
+  border-image-width: 20px;
+  border-image-color: #4aaaa5;
+   } 
+#GardenoftheGods
+{
+  width: 200px;
+  height: 175px;
+  padding: 20px;
+
+
+}
+
+#Italy
+{
+  width: 200px;
+  height: 175px;
+  padding: 20px;
+}
+
+#Music
+{
+  width: 200px;
+  height: 175px;
+  padding: 20px;
+}
+
+#Ocean
+{
+  width: 200px;
+  height: 175px;
+  padding: 20px;
+}
+#Code
+{
+  width: 200px;
+  height: 175px;
+  padding: 20px;
+}
+#SandDunes
+{
+  width: 200px;
+  height: 175px;
+  padding: 20px;
+}
+#Connect
+{
+  float: top;
+  float: right;
+  display: inline-block;
+  position: relative;
+  padding-top: 25px;
+  padding-right: 25px;
+}
+
+.pageHeader1
+{
+
+ font-family: Georgia;
+  color: #4aaaa5;
+  padding-left: 250px; 
+}
+ 
+.pageHeader2
+{
+
+ font-family: Georgia;
+  color: #4aaaa5;
+  padding-left: 100px; 
+}
+
+#Connect3
+{
+
+  float: top;
+  float: right;
+  display: inline-block;
+  position: relative;
+  padding-top: 25px;
+  padding-right: 25px;
+}
+
+#listCategories
+{
+ list-style-type: none;
+ text-align: left;
+}
